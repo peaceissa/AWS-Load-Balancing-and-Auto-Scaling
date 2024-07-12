@@ -1,9 +1,5 @@
 # AWS Load Balancing and Auto Scaling Hands-on Lab
 
-## Due Date: April 8, 2024, 11:00 AM
-
-### Instructions
-
 ## Objectives:
 - Gain hands-on experience with deploying a highly available and scalable web application architecture on AWS.
 - Create an Application Load Balancer (ALB) with two target groups to distribute traffic to your web servers.
