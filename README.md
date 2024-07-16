@@ -50,8 +50,8 @@ We have a bucket and its now hosting ready, all we need to do is add our files a
 
 ## Showcase a simple Architecture diagram
 <!-- setup a link to your images folder -->
-<a href="[https://github.com/peaceissa/AWS-Load-Balancing-and-Auto-Scaling](https://github.com/peaceissa/AWS-Load-Balancing-and-Auto-Scaling/Screenshots)">
-    <img src="screenshots/C:\Users\User\Desktop\AWS-Load-Balancing-and-Auto-Scaling\screensots\aws load balancing and auto scaling group.png" alt="Logo" width="auto" height="150">
+<a href="[https://github.com/peaceissa/AWS-Load-Balancing-and-Auto-Scaling](https://github.com/peaceissa/AWS-Load-Balancing-and-Auto-Scaling/Screenshots/aws load balancing and auto scaling group.png)">
+    <img src="/screensots/aws load balancing and auto scaling group.png" alt="Logo" width="auto" height="150">
 </a>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -82,8 +82,8 @@ _Below is an example of how you can instruct your audience on installing and set
 <!-- CONTACT -->
 ## Contact
 
-Peace issa - [@my_twitter](https://twitter.com/peaceissa) - email@example.com
-
+Peace issa - [@freecarseye](https://twitter.com/peaceissa) - peaceissa695@gmail.com
+Linkedin - [https://www.linkedin.com/in/peace-issa/](https://www.linkedin.com/in/peace-issa/)
 Project Link: [https://github.com/peaceissa/AWS-Load-Balancing-and-Auto-Scaling](https://github.com/peaceissa/AWS-Load-Balancing-and-Auto-Scaling)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
